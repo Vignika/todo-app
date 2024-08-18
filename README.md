@@ -1,3 +1,28 @@
+![image](https://github.com/user-attachments/assets/6bae568f-41be-45cd-b45c-65df3ea5931b)
+
+![image](https://github.com/user-attachments/assets/c2e0e668-cad3-4d48-ac21-285f5ed21b5d)
+
+![image](https://github.com/user-attachments/assets/4db3da46-c20f-4d50-ac3b-813dd654f5d7)
+
+
+# To-Do List Application
+
+This is a simple To-Do List application built using React, Redux, and React Hooks. It allows users to add, delete, update, and filter tasks. The application is styled with custom CSS for a modern and clean UI.
+
+## Features
+- Add tasks with a title and description.
+- Display tasks with a checkbox to mark as completed.
+- Edit and delete tasks.
+- Filter tasks by their completion status.
+- Persist tasks in local storage.
+
+## Technologies Used
+- React
+- Redux
+- React Hooks
+- CSS
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
