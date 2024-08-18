@@ -1,0 +1,26 @@
+form {
+    display: flex;
+    flex-direction: column;
+    margin-bottom: 20px;
+}
+
+input[type="text"], textarea {
+    padding: 10px;
+    margin: 5px 0;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+}
+
+textarea {
+    resize: none;
+}
+
+button[type="submit"] {
+    background-color: #25dbf7; /* Classic teal */
+    margin-top: 10px;
+    color: white;
+}
+
+button[type="submit"]:hover {
+    background-color: #1aadc4; /* Darker teal */
+}
